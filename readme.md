@@ -5,10 +5,10 @@
 
 👨‍🎓 I'm studying **Information Systems** at [CIN UFPE](https://portal.cin.ufpe.br/).
 
-💡 Skills: HTML, CSS and Python.
+💡 Skills: **HTML** and **CSS**.
 
-👨‍💻 Currently studying: Flutter.
+👨‍💻 Studying: **Flutter**.
 
-🎒 Tools: Visual Studio Code and Github.
+🎒 Main Tools: **Visual Studio Code** and **Github**.
 
-🙋‍♂️ Social network: [Instagram](https://www.instagram.com/warleys11/).
+🙋‍♂️ Social Network: [Instagram](https://www.instagram.com/warleys11/).
