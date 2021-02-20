@@ -3,7 +3,7 @@
 # Hi there, I'm Warley Souza 😁
 
 
-👨‍🎓 I'm studying Information Systems at UFPE.
+👨‍🎓 I'm studying **Information Systems** at [CIN UFPE](https://portal.cin.ufpe.br/).
 
 💡 Skills: HTML, CSS and Python.
 
@@ -11,4 +11,4 @@
 
 🎒 Tools: Visual Studio Code and Github.
 
-🙋‍♂️ Social network: [Instagram](www.instagram.com/warleys11).
+🙋‍♂️ Social network: [Instagram](https://www.instagram.com/warleys11/).
