@@ -11,4 +11,6 @@
 
 🎒 Main Tools: **Visual Studio Code** and **Github**.
 
+🤩 Areas of Interest: **Programming**, **Design**, **Communication**, among other things haha.
+
 🙋‍♂️ Social Network: [Instagram](https://www.instagram.com/warleys11/).
