@@ -18,4 +18,4 @@
 ---
 
 
-![Github Stats](https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true)
+<img src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true" width="320px" align="center">
