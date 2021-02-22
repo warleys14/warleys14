@@ -21,6 +21,8 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warleys14" />
 </a>
 
-<img src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true" align="right">
+<a href="https://github.com/warleys14/warleys14">
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true" />
+</a>
 
 
