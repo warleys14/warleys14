@@ -18,4 +18,4 @@
 ---
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true" width="320px" align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true" width="320px" align="right">
