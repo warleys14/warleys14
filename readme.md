@@ -22,7 +22,7 @@
 </a>
 
 <a href="https://github.com/warleys14/warleys14">
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true" />
 </a>
 
 
