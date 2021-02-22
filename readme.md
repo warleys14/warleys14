@@ -16,6 +16,5 @@
 🙋‍♂️ Social Networks: [Instagram](https://www.instagram.com/warleys11/) and [Medium](https://medium.com/@warleysoares35).
 
 ---
-<center>
-<img src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true">
-</center>
+
+<img src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&hide_border=true" align="left">
