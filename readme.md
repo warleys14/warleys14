@@ -5,7 +5,6 @@
 
 👨‍🎓 I'm studying **Information Systems** at [CIN UFPE](https://portal.cin.ufpe.br/).
 
-💡 Skills: **HTML** and **CSS**.
 
 👨‍💻 Studying: **Flutter**.
 
