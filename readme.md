@@ -18,6 +18,6 @@
 
 
   <a href="https://github.com/warleys14/warleys14">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&theme=dracula&count_private=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=warleys14&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=warleys14&layout=compact&langs_count=16&theme=dracula" />
   </a>
