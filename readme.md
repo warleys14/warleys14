@@ -15,12 +15,7 @@
 🙋‍♂️ Social Networks: [Instagram](https://www.instagram.com/warleys11/) and [Medium](https://medium.com/@warleysoares35).
   
   
----
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=warleys14&color=green" alt="warleys14" />
-</p>
-  
+---  
 <center>
   <table>
     <tr>
