@@ -6,7 +6,7 @@
 👨‍🎓 I'm studying **Information Systems** at [CIN UFPE](https://portal.cin.ufpe.br/).
 
 
-👨‍💻 Studying: **Flutter**.
+👨‍💻 Studying: **React**.
 
 🎒 Main Tools: **Visual Studio Code** and **Github**.
 
